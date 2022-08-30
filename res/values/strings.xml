@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">PRsDemo</string>
+    <string name="color">Color</string>
+    <string name="mode">Flash Mode</string>
+    <string name="delay_on">Delay.ON</string>
+    <string name="delay_off">Delay.OFF</string>
+    <string name="commit">Commit</string>
+
+</resources>
